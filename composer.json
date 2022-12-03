@@ -15,5 +15,11 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+
+    "extra": {
+        "laravel": [
+            "Olgert\\Contact\\ContactServiceProvider"
+        ]
+    }
 }
