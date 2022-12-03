@@ -1,0 +1,19 @@
+{
+    "name": "olgert/contact",
+    "description": "This is my first test package for laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Olgert\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "olgert",
+            "email": "olgertbrisku05@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
